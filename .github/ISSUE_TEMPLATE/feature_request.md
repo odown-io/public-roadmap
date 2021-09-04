@@ -1,6 +1,9 @@
 ---
 name: Feature request
-about: Suggest an idea for Odown
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
